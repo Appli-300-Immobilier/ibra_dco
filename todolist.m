@@ -4,8 +4,8 @@
 - **Company Name:** IBRA DCO
 - **Directory:** ibra_dco
 - **Address/Contact:** 
-  - Abidjan, C�te d'Ivoire
-  - Coordonn�es
+  - Abidjan, Céte d'Ivoire
+  - Coordonnées
   - 
   - +225 09 85 03 43
   - 
