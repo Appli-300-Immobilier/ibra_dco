@@ -53,7 +53,7 @@ Accès Admin direct : `localhost:5173/admin` (après connexion)
 
 **IBRA DCO**
 * **Localisation :** Abidjan, Côte d'Ivoire
-* **Contact :** +225 09 85 03
+* **Contact :** +225 098 503 43
 * **Email :** contact@ibradco.cm
 * **Social :** [Facebook](https://facebook.com) | [WhatsApp](https://wa.me/237225098503)
 
